@@ -146,7 +146,7 @@ button{
 
 /* Media Queries for mobile screen */
 @media screen and (max-width: 375px){
-    *{
+    html{
         font-size: 90%;
     }
     .outer{
